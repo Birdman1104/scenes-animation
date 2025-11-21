@@ -1,0 +1,471 @@
+{
+  "frames": {
+    "card_1.png": {
+      "frame": {
+        "x": 3,
+        "y": 3,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_10.png": {
+      "frame": {
+        "x": 139,
+        "y": 3,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_11.png": {
+      "frame": {
+        "x": 3,
+        "y": 211,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_12.png": {
+      "frame": {
+        "x": 275,
+        "y": 3,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_13.png": {
+      "frame": {
+        "x": 3,
+        "y": 347,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_2.png": {
+      "frame": {
+        "x": 211,
+        "y": 211,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_3.png": {
+      "frame": {
+        "x": 411,
+        "y": 3,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_4.png": {
+      "frame": {
+        "x": 347,
+        "y": 211,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_5.png": {
+      "frame": {
+        "x": 3,
+        "y": 483,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_6.png": {
+      "frame": {
+        "x": 211,
+        "y": 419,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_7.png": {
+      "frame": {
+        "x": 547,
+        "y": 3,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_8.png": {
+      "frame": {
+        "x": 419,
+        "y": 419,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "card_9.png": {
+      "frame": {
+        "x": 483,
+        "y": 211,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "deck_1.png": {
+      "frame": {
+        "x": 3,
+        "y": 619,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "deck_2.png": {
+      "frame": {
+        "x": 211,
+        "y": 555,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "deck_3.png": {
+      "frame": {
+        "x": 419,
+        "y": 555,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "deck_4.png": {
+      "frame": {
+        "x": 619,
+        "y": 211,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "deck_5.png": {
+      "frame": {
+        "x": 683,
+        "y": 3,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "deck_6.png": {
+      "frame": {
+        "x": 627,
+        "y": 419,
+        "w": 130,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 130,
+        "h": 202
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.5",
+    "image": "task1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 816,
+      "h": 752
+    },
+    "scale": 1
+  }
+}

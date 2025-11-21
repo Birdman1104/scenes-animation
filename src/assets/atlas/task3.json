@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "torch.png": {
+      "frame": {
+        "x": 3,
+        "y": 3,
+        "w": 73,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 73,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "particle.png": {
+      "frame": {
+        "x": 82,
+        "y": 3,
+        "w": 44,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.5",
+    "image": "task3.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 129,
+      "h": 289
+    },
+    "scale": 1
+  }
+}

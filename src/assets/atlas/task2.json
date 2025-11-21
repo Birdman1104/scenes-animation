@@ -1,0 +1,63 @@
+{
+  "frames": {
+    "chat_bkg.png": {
+      "frame": {
+        "x": 3,
+        "y": 3,
+        "w": 102,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "speech_bubble.png": {
+      "frame": {
+        "x": 111,
+        "y": 3,
+        "w": 30,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 30
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.5",
+    "image": "task2.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 144,
+      "h": 108
+    },
+    "scale": 1
+  }
+}

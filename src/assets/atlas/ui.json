@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "btn_up.png": {
+      "frame": {
+        "x": 3,
+        "y": 3,
+        "w": 150,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "btn_selected.png": {
+      "frame": {
+        "x": 3,
+        "y": 69,
+        "w": 149,
+        "h": 59
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 59
+      },
+      "sourceSize": {
+        "w": 150,
+        "h": 60
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "checkbox.png": {
+      "frame": {
+        "x": 3,
+        "y": 134,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "checkmark.png": {
+      "frame": {
+        "x": 34,
+        "y": 134,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 4,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://github.com/odrick/free-tex-packer-core",
+    "version": "0.3.5",
+    "image": "ui.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 156,
+      "h": 162
+    },
+    "scale": 1
+  }
+}
